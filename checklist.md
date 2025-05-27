@@ -4,10 +4,10 @@
 
 ---
 
-Project - intern.demoshopping	
-Build - 1.0	
-Tester - Плотников Д.Ю	
-Environment - "MacOS 15.4.1 (24E263) Yandex Browser Версия 25.2.6.706 (64-bit)"	
+#### Project - intern.demoshopping	
+#### Build - 1.0	
+#### Tester - Плотников Д.Ю	
+#### Environment - "MacOS 15.4.1 (24E263) Yandex Browser Версия 25.2.6.706 (64-bit)"	
 
 ---
 
